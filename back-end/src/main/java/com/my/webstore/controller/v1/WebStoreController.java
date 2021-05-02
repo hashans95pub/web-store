@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Log4j2
-@CrossOrigin(origins = "http://localhost:3001")
+@CrossOrigin(origins = "http://localhost:3000")
 @RestController
 @RequestMapping("/api/v1")
 public class WebStoreController extends BaseController {
