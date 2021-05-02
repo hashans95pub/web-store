@@ -1,0 +1,7 @@
+.product {
+    display: inline-block;
+}
+
+.product:not(:first-child) {
+    margin-left: 15px;
+}

@@ -1,0 +1,18 @@
+.navitem {
+     margin: 10px 0;
+     box-sizing: border-box;
+     display: block;
+     width: 100%;
+ }
+
+.navitem a {
+    color: #3f3f3f;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+}
+
+.navitem a:hover, .navitem a:active, .navitem a.active {
+    color: #40A4C8;
+}
